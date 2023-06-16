@@ -41434,7 +41434,7 @@ module.exports = styleTagTransform;
 
 /***/ "./src/app.tsx":
 /*!*********************!*\
-  !*** ./src/app.tsx ***!
+  !*** ./src/App.tsx ***!
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
