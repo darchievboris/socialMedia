@@ -4,6 +4,9 @@ const MainPage = () => {
     return (
         <div>
             MainPage
+            <textarea>
+
+            </textarea>
         </div>
     );
 };
